@@ -1,5 +1,5 @@
 ###  Welcome to my page! I'm Nayaka.
-![My_Character]([https://your-public-link-to-the-gif.gif](https://cdn.discordapp.com/attachments/1023987822090276926/1355819022503120916/pixil-gif-drawing_1.gif?ex=67ea505c&is=67e8fedc&hm=d2f21d941b7a85425d995f6908728226f84abd98dd6915913e5818ecf0ed469a&))
+![My_Character](https://cdn.discordapp.com/attachments/1023987822090276926/1355819022503120916/pixil-gif-drawing_1.gif?ex=67ea505c&is=67e8fedc&hm=d2f21d941b7a85425d995f6908728226f84abd98dd6915913e5818ecf0ed469a&)
 A proud Telkom School Student from Indonesia
 I'm a passionate learner in **Cloud Computing, SysOps, and Hardware Junkie**. I enjoy exploring new technologies and building projects.
 
