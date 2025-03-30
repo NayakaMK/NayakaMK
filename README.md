@@ -1,5 +1,5 @@
 ###  Welcome to my page! I'm Nayaka.
-<img src="https://a.deviantart.net/avatars/k/i/kikinickl.gif?3" alt="My_Character" style="width:300px;height:300px;">
+<img src="https://a.deviantart.net/avatars/k/i/kikinickl.gif?3" alt="My_Character" style="width:80px;height:80px;">
 A proud Telkom School Student from Indonesia
 I'm a passionate learner in **Cloud Computing, SysOps, and Hardware Junkie**. I enjoy exploring new technologies and building projects.
 
@@ -21,7 +21,7 @@ I'm a passionate learner in **Cloud Computing, SysOps, and Hardware Junkie**. I 
 #### Tools & Platforms:
 
 ---
-<img src="https://github.com/NayakaMK/NayakaMK/blob/main/Assets/Joveicon.gif" alt="My_Character" style="width:300px;height:300px;">
+<img src="https://github.com/NayakaMK/NayakaMK/blob/main/Assets/Joveicon.gif" alt="My_Character" style="width:100px;height:100px;">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kikicl124&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kikicl124&layout=compact&theme=tokyonight)
