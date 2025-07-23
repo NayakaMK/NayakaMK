@@ -28,5 +28,5 @@ I'm a passionate learner in **Cloud Computing, SysOps, and Hardware Junkie**. I 
 
 <img src="https://github.com/NayakaMK/NayakaMK/blob/main/Assets/Joveicon.gif" alt="My_Character" style="width:100px;height:100px;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kikicl124&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kikicl124&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NayakaMK&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayakaMK&layout=compact&theme=tokyonight)
