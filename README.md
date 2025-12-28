@@ -4,10 +4,10 @@ A proud Telkom School Student from Indonesia
 I'm a passionate learner in **Cloud Computing, SysOps, and Hardware Junkie**. I enjoy exploring new technologies and building projects.
 
 - 🌍 I'm based in Indonesia
-- 📖 I’m currently learning **Cloud Computing (AWS), AWS DevOps, and Microcontroller/Microprocessor**
-- 📩 How to reach me: link here
-- 🎓 I've graduated from [SMK Telkom Malang](https://smktelkom-mlg.sch.id/) as an computer engineering student!
-- 👨‍🎓 Currently I'm a [Telkom University](https://telkomuniversity.ac.id/) College Student
+- 📖 I’m currently learning **Cloud Computing (AWS), Solution Architecture, and Microcontroller/Microprocessor**
+- 📩 How to reach me: #linkherelol
+- 🎓 I've graduated from [SMK Telkom Malang](https://smktelkom-mlg.sch.id/) expertized in Cloud Computing Operators student!
+- 👨‍🎓 Currently I'm a [Brawijaya University](#linkhere) Undergradtuate Computer Engineering College Student
 
 ---
 
